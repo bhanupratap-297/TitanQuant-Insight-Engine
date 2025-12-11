@@ -1,0 +1,11 @@
+streamlit
+yfinance
+pandas
+requests
+matplotlib
+plotly
+transformers
+torch
+scikit-learn
+textblob
+pandas_ta
