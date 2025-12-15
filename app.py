@@ -724,7 +724,8 @@ elif page == "💭 Sentiment Dashboard":
 st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #888;'>
-    <p>⚠️ <strong>Disclaimer:</strong> This tool is for educational purposes only. Not financial advice.</p>
-    <p>Made with ❤️ using Streamlit, FinBERT, and Advanced ML</p>
+    <p>⚠️ <strong>Disclaimer:</strong> A Stock Market sentiment analyser using social media data and Technical Analysis from various Data Sources for Demonstration purposes.</p>
+    <p>Made using Streamlit, FinBERT, and Advanced ML</p>
 </div>
+
 """, unsafe_allow_html=True)
